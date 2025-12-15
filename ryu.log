@@ -1,0 +1,6 @@
+loading app sdn_controller/ryu_mrt_app.py
+loading app ryu.controller.ofp_handler
+creating context wsgi
+instantiating app sdn_controller/ryu_mrt_app.py of MRTController
+instantiating app ryu.controller.ofp_handler of OFPHandler
+(9976) wsgi starting up on http://0.0.0.0:8080
